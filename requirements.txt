@@ -25,4 +25,3 @@ torchmetrics
 transformers
 webdataset
 yapf
-controlnet_aux
